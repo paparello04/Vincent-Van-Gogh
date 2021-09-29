@@ -1,0 +1,63 @@
+body
+{
+    background-color: rgb(175, 196, 255);
+}
+ 
+ 
+table
+{
+    background-color: rgb(152, 204, 253);
+}
+a
+{
+    background-color: rgb(211, 239, 255);
+}
+.encabezado
+{
+    background-color: rgb(134, 164, 247);
+    font-size: medium;
+    text-align: center;
+    color: cornsilk;
+    font-family: 'Times New Roman', Times, serif;
+}
+.titulo
+{
+    font-size: x-large;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.imagenA
+{
+    margin-left: 32%;
+
+}
+
+.texto
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.imagenB
+{
+    margin-left: 40%;
+
+}
+
+.tabla
+{
+    margin-left: 32%;
+
+}
+
+.link
+{
+    background-color: rgb(134, 164, 247);
+    font-size: medium;
+    text-align: center;
+    color: cornsilk;
+    font-family: 'Times New Roman', Times, serif;
+}
